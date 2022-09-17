@@ -1,4 +1,4 @@
-# Energy Auction Solana
+# Smart Grids - Privacy Perserving using Solana
 
 ## Setup
 
